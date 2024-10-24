@@ -1,4 +1,4 @@
-# SearchComponent
+# Drug Name
 Search Component -to search for drugs and view details
 
 Screenshots below:
